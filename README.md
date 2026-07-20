@@ -1,91 +1,88 @@
 # ⚙️ Laser Cutting Process Improvement
 
-Industrial Engineering graduation project focused on reducing production costs and improving cutting quality in a fiber laser cutting process.
+An industrial engineering project focused on improving laser cutting operations through process optimization, cost reduction, and quality improvement.
 
-> Developed through field observations, time studies, cost analysis, and parameter optimization.
-
----
-
-## 📌 Project Overview
-
-The project investigates the replacement of Nitrogen (N₂) assist gas with High-Pressure Compressed Air in thin-sheet fiber laser cutting operations.
-
-The study focuses on improving operational efficiency by:
-
-* Reducing assist gas costs
-* Increasing cutting speed
-* Eliminating dross formation
-* Reducing non-value-added labor
-* Improving overall process efficiency
+> 🎓 **Academic Team Project**  
+> Developed as part of an Industrial Engineering course in collaboration with an industrial case study.
 
 ---
 
-## 🎯 Objectives
+# 📌 Project Overview
 
-* Reduce laser cutting operating costs
-* Optimize process parameters (focus, pressure, nozzle, speed)
-* Minimize dross formation
-* Increase cutting throughput
-* Improve production efficiency
+This project analyzes a laser cutting process to identify the main factors affecting production costs and product quality. Various engineering analysis methods were applied to evaluate the current process and propose practical improvements.
+
+The proposed solutions focused on reducing operational costs while maintaining product quality and improving overall production efficiency.
 
 ---
 
-## 🛠 Methodology
+# 🎯 Objectives
 
-* GEMBA observations
-* Time study analysis
-* Pareto analysis
-* Fishbone (Ishikawa) analysis
-* Cost analysis
-* Parameter optimization
-
----
-
-## 📊 Key Results
-
-* ✔ Significant reduction in assist gas cost
-* ✔ Higher cutting speed with compressed air
-* ✔ Reduction of dross-related manual cleaning
-* ✔ Improvement in production flow efficiency
+- Analyze the existing laser cutting process.
+- Identify major sources of production cost and quality loss.
+- Evaluate alternative production methods.
+- Improve production efficiency through process optimization.
+- Support engineering decisions using data-driven analysis.
 
 ---
 
-## 💡 Skills Demonstrated
+# 🛠 Engineering Methods
 
-* Industrial Engineering
-* Process Improvement
-* Lean Manufacturing
-* Time Study
-* Cost Analysis
-* Root Cause Analysis
-* Pareto Analysis
-* Data-Driven Decision Making
-
----
-
-## 👨‍💻 My Contributions
-
-* Field observations
-* Time study calculations
-* Cost analysis
-* Pareto analysis
-* Root cause analysis
-* Technical documentation
-* Presentation preparation
+- Gemba Observation
+- Time Study
+- Pareto Analysis
+- Fishbone (Ishikawa) Diagram
+- Cost Analysis
+- ROI (Return on Investment) Evaluation
+- Process Optimization
 
 ---
 
-## 📂 Repository Contents
+# 📈 Key Results
 
-* 📑 Project Report
-* 📊 Project Presentation
-* 📄 README
+- Identified the primary sources of production cost.
+- Proposed replacing nitrogen with compressed air for suitable operations.
+- Reduced unnecessary operational costs.
+- Improved production efficiency through parameter optimization.
+- Evaluated investment feasibility using ROI analysis.
 
 ---
 
-## 📬 Contact
+# 💡 Skills Demonstrated
+
+- Industrial Engineering
+- Process Improvement
+- Lean Manufacturing
+- Root Cause Analysis
+- Pareto Analysis
+- Time Study
+- Cost Analysis
+- Engineering Economics
+- Problem Solving
+- Data-Driven Decision Making
+
+---
+
+# 👨‍💻 My Contributions
+
+- Conducted process analysis.
+- Performed engineering calculations and cost evaluations.
+- Participated in identifying improvement opportunities.
+- Contributed to solution development.
+- Prepared technical documentation and project presentation.
+
+---
+
+# 📂 Repository Contents
+
+- 📊 Project Report (PDF)
+- 📊 Project Presentation (PDF)
+- 📄 README
+
+---
+
+# 📬 Contact
 
 **Emir Kılıç**
 
-* LinkedIn: https://linkedin.com/in/emirklc
-* GitHub: https://github.com/emirklc60
+- LinkedIn: https://www.linkedin.com/in/emirklc
+- GitHub: https://github.com/emirklc60
